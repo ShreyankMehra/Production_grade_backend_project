@@ -1,0 +1,14 @@
+{
+  "name": "production-level-backend",
+  "version": "1.0.0",
+  "description": "A backend project of production grade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Shreyank Singh Gahadval",
+  "license": "ISC"
+}
